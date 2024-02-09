@@ -3,7 +3,7 @@
 💻 With a year in the industry, I specialize in front-end (HTML5, CSS3, React.js) and back-end (Node.js, MongoDB) technologies.  
 👥 Proficient in Git and collaborative platforms.  
 🦾 I thrive on overcoming challenges and delivering top-notch solutions.  
-📋 Experienced in project management tools like Jira and YouTrack. 
+📋 Experienced in project management tools like Jira and YouTrack.  
 🖥️ Check out my work on [GitHub](https://github.com/Meelenych), and let's connect on [LinkedIn](https://www.linkedin.com/in/taras-demchenko/).  
 🚙 Open to exciting opportunities and ready to relocate.  
 📧 Email me at taras.demchenko15@gmail.com or call at 📱 385-461-3220.   
