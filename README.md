@@ -1,5 +1,5 @@
 👋 Hey there!  
-🧑‍💻 I'm Taras Demchenko, a Full Stack Developer from Tremonton, Utah, USA, eager to bring ideas to life.  
+🧑‍💻 I'm Taras Demchenko, a Full Stack Developer from Box Elder County, Utah, USA, eager to bring ideas to life.  
 💻 With a year in the industry, I specialize in front-end (HTML5, CSS3, JS, React.js) and back-end (Node.js, MongoDB) technologies.  
 👥 Proficient in Git and collaborative platforms.  
 🦾 I thrive on overcoming challenges and delivering top-notch solutions.  
