@@ -9,17 +9,3 @@
 📧 Email me at taras.demchenko15@gmail.com or call at 📱 385-461-3220.   
 🌱 I’m currently working on React Apps, learning NEXT.JS and writing an 🛒 e-store pet-project using it.   
 🔭 I’m looking for a full time junior position as a Front End developer or a Full Stack Developer.
-<a href="https://www.testdome.com/certificates/b6ef05c8e34849c293a4c7e3e39885f9" class="testdome-certificate-stamp gold">
-            <span class="testdome-certificate-name">Taras Demchenko</span>
-            <span class="testdome-certificate-test-name">React</span>
-            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
-        </a>
-        <script>
-            var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css";
-            link = document.createElement("link");
-            link.href = stylesheet;
-            link.type = "text/css";
-            link.rel = "stylesheet";
-            link.media = "screen,print";
-            document.getElementsByTagName("head")[0].appendChild(link);
-        </script>
