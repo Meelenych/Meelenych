@@ -8,4 +8,4 @@
 🚙 Open to exciting opportunities and ready to relocate.  
 📧 Email me at taras.demchenko15@gmail.com or call at 📱 385-461-3220.   
 🌱 I’m currently working on React Apps, learning NEXT.JS and writing an 🛒 e-store pet-project using it.   
-🔭 I’m looking for a full time junior position as a Front End developer or a Full Stack Developer.        
+🔭 I’m looking for a full time junior position as a Front End developer or a Full Stack Developer.
